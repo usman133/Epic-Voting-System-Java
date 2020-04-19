@@ -1,0 +1,20 @@
+201201,Mike Long,1,Fri Sep 28 15:58:15 NZST 2018,staff123
+201202,Mia Williams,0,null,staff123
+201203,Amardeep Singh,0,null,staff123
+201204,Manoo Smith,0,null,staff123
+201205,Daee Jin,0,null,staff123
+201206,Zhuo Wang,0,null,staff123
+201207,Ann Sanderson,0,null,staff123
+201208,Kimberly Gibbs,0,null,staff123
+201209,Ayako Nakayama,0,null,staff123
+201210,Nikhil Singh,0,null,staff123
+201211,Steve Lane,0,null,staff123
+201212,Java King,0,null,staff123
+201213,Susan Sun,0,null,staff123
+201214,Cyrus Jin,0,null,staff123
+201215,Wing Wang,0,null,staff123
+201216,Lin Wingard,0,null,lin123
+201217,Sam Sean,0,null,staff123
+201218,Baba Meng,0,null,staff123
+201219,John Smith,0,null,staff123
+201220,Imran Khan,0,null,staff123
